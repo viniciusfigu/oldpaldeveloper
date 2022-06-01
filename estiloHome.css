@@ -34,7 +34,7 @@ img {
   text-align: center;
   padding: 10px 15px;
   text-decoration: none;
-  width: calc(100vh - 100px); 
+  width: calc(50vh - 50px); 
 }
  .topico1 {
   display: grid;
