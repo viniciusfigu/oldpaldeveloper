@@ -24,7 +24,7 @@ img {
   background-color: #333;
   position: sticky;
   position: -webkit-sticky;
-  box-shadow: 10px 10px 5px lightblue;
+  box-shadow: 10px 10px 5px #2a2e35;
   top: 0;
 }
 .navbar a {
@@ -32,7 +32,7 @@ img {
   display: block;
   color: white;
   text-align: center;
-  padding: 14px 20px;
+  padding: 17px 20px;
   text-decoration: none;
   width: calc(100vh - 100px); 
   border-radius: 2px;
