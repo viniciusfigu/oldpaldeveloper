@@ -27,6 +27,14 @@ img {
   box-shadow: 10px 10px 5px #2a2e35;
   top: 0;
 }
+.navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  
+}
 
  .topico1 {
   display: grid;
