@@ -29,12 +29,12 @@ img {
 }
 .navbar a {
   float: left;
-
+  display: block;
   color: white;
   text-align: center;
   padding: 10px 15px;
   text-decoration: none;
-  width: calc(50vh - 50px); 
+  width: calc(25vh - 25px); 
 }
  .topico1 {
   display: grid;
